@@ -1,5 +1,5 @@
 #language:ru
-
+@jira-link1
 Функционал: Поиск репозиториев в github
 
   Структура сценария: Поиск репозиториев в github по ключевому слову
@@ -15,7 +15,7 @@
       | alfalab     | repositoriesSearchResult |
       | alfalab2    | repositoriesSearchResult |
 
-
+  @jira-link2
   Сценарий: Отображение страницы входа GitHub
     Дано совершен переход на страницу "Страница входа GitHub" по ссылке "gitHubMainPage"
     Тогда страница соответствует спецификации "welcomepage.spec" для экрана "desktop"
