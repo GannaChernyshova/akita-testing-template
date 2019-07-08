@@ -15,7 +15,7 @@
       | alfalab     | repositoriesSearchResult |
       | alfalab2    | repositoriesSearchResult |
 
-  @jira-link2
+  @jira-link2  @jira-link3
   Сценарий: Отображение страницы входа GitHub
     Дано совершен переход на страницу "Страница входа GitHub" по ссылке "gitHubMainPage"
     Тогда страница соответствует спецификации "welcomepage.spec" для экрана "desktop"
